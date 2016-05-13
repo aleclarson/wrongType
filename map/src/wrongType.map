@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "wrongType.js",
+  "sourceRoot": "../../src",
+  "sources": [
+    "wrongType.coffee"
+  ],
+  "names": [],
+  "mappings": "AACA,IAAA;;AAAA,UAAA,GAAa,OAAA,CAAQ,YAAR;;AAEb,MAAM,CAAC,OAAP,GAAiB,SAAC,IAAD,EAAO,GAAP;AACf,MAAA;EAAA,MAAA,GAAY,GAAH,GAAY,GAAA,GAAI,GAAJ,GAAQ,YAApB,GAAqC;EAC9C,MAAA,IAAU,UAAA,CAAW,IAAX,EAAiB,IAAjB;AACV,SAAO,SAAA,CAAU,MAAA,GAAS,GAAnB;AAHQ"
+}

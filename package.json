@@ -1,0 +1,13 @@
+{
+  "name": "wrongType",
+  "version": "1.0.0",
+  "main": "js/src/wrongType",
+  "dependencies": {
+    "formatType": "aleclarson/formatType#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
