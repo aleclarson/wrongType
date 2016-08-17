@@ -11,4 +11,4 @@ wrongType = function(type, key) {
 
 module.exports = wrongType;
 
-//# sourceMappingURL=../../map/src/wrongType.map
+//# sourceMappingURL=map/wrongType.map
