@@ -1,0 +1,15 @@
+{
+  "name": "wrongType",
+  "version": "1.0.0",
+  "main": "js/wrongType",
+  "plugins": [
+    "lotus-coffee"
+  ],
+  "scripts": {
+    "build": "coffee-build -v 1.11.x -b -o js src",
+    "postinstall": "npm run build"
+  },
+  "dependencies": {
+    "formatType": "aleclarson/formatType#1.0.0"
+  }
+}
