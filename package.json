@@ -10,6 +10,6 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "formatType": "aleclarson/formatType#1.1.0"
+    "formatType": "aleclarson/formatType#1.1.1"
   }
 }
