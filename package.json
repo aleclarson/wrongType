@@ -1,6 +1,6 @@
 {
   "name": "wrongType",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "js/wrongType",
   "plugins": [
     "lotus-coffee"
@@ -10,6 +10,6 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "formatType": "aleclarson/formatType#1.1.0"
+    "formatType": "aleclarson/formatType#1.1.1"
   }
 }
